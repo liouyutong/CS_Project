@@ -1,0 +1,16 @@
+{
+  "manuellab_vers": [
+    1,
+    8,
+    1
+  ],
+  "structural": {
+    "Expressions_browsMidVert": 0.6,
+    "Expressions_browSqueezeR": 1.0,
+    "Expressions_mouthSmile": 0.6,
+    "Expressions_browSqueezeL": 1.0,
+    "Expressions_mouthOpenO": 0.0
+  },
+  "metaproperties": {},
+  "materialproperties": {}
+}
